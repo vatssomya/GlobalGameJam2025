@@ -15,4 +15,4 @@ Check out the gameplay video [here](https://drive.google.com/file/d/1xvNfe-SRAHQ
 ## 💻 How to Run  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/bubbleGUM.git  
+   git clone https://github.com/vatssomya/bubbleGUM.git  
